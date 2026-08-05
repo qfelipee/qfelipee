@@ -70,40 +70,6 @@ Busco criar aplicações escaláveis, organizadas e de fácil manutenção, semp
 
 </div>
 
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qfelipee&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qfelipee&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=qfelipee&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=qfelipee&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📈 Gráfico de Atividade
 
 <div align="center">

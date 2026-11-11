@@ -42,17 +42,6 @@ No trabalho, atuo em um projeto de modernização de sistema legado para **micro
 
 ---
 
-## &nbsp;🛠️&nbsp; Projetos em destaque
-
-| Projeto | O que é | Stack |
-|:---|:---|:---|
-| **[Agape Financeiro](LINK-DO-REPOSITORIO)** | Sistema de gestão financeira para igrejas. Meu primeiro projeto full stack de ponta a ponta | Spring Boot, MySQL, React |
-| **[Amor em Mechas](LINK-DO-REPOSITORIO)** | API para formulário e gestão de pacientes | Java, Spring Boot |
-
-> Estou evoluindo o Agape Financeiro com **Docker**, **pipeline de CI/CD** e **deploy na AWS**.
-
----
-
 ## &nbsp;🚀&nbsp; Tecnologias
 
 <div align="center">

@@ -59,13 +59,15 @@ Aplicativo web instalável (PWA) desenvolvido para um cliente real, com diário,
 - **Front-end:** React, TypeScript
 - **Infra:** Docker
 - **Status:** em desenvolvimento
+- **Repositório:** [veja no GitHub - BackEnd](https://github.com/qfelipee/agape-back-end)
+- **Repositório:** [veja no GitHub - FrontEnd](https://github.com/qfelipee/agape-front-end)
 
 ### ❓ Quiz (Projeto Veigh)
-[ESCREVA EM UMA FRASE O QUE O QUIZ FAZ]. Projeto com back-end próprio e banco de dados, rodando em uma **máquina virtual Oracle VM**, o que me ensinou a configurar o ambiente de execução, e não só a escrever o código.
+WebSite com quiz interativo sobre o artista Thiago Veigh, projeto desenvolvido a fins acadêmicos da faculdade. Projeto com back-end próprio e banco de dados, rodando em uma **máquina virtual Oracle VM**, o que me ensinou a configurar o ambiente de execução, e não só a escrever o código.
 
 - **Stack:** Node.js, JavaScript, MySQL, HTML e CSS
 - **Infra:** máquina virtual (Oracle VM)
-- **Repositório:** [veja no GitHub](LINK-DO-REPOSITORIO)
+- **Repositório:** [veja no GitHub](https://github.com/qfelipee/ProjetoQuiz-Veigh)
 
 ### 🌐 Portfólio pessoal
 Meu site com trajetória, hard skills e projetos, feito do zero para aprender React e para apresentar o meu trabalho. Tem modo claro/escuro, animações ao rolar a página e é responsivo.

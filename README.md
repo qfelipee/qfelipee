@@ -1,153 +1,137 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC&height=260&section=header&text=Felipe%20Ferraz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Construindo%20back-ends%20s%C3%B3lidos%2C%20uma%20API%20de%20cada%20vez&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC&height=260&section=header&text=Felipe%20Ferraz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20com%20Java%20e%20Spring%20Boot%20%7C%20Aprendendo%20construindo&descAlignY=58&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-end+na+Vivo;Java+%7C+Spring+Boot;APIs+REST+%7C+Microsservi%C3%A7os;Cloud+%7C+AWS;Arquitetura+de+Software;Sempre+aprendendo+algo+novo"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Estagi%C3%A1rio+de+Desenvolvimento+na+Vivo;Java+%7C+Spring+Boot;APIs+REST+%7C+Microsservi%C3%A7os;Docker+%7C+CI%2FCD+%7C+AWS;Sempre+aprendendo+algo+novo"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/felipe-ferraz-4a7a96377/">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/qfelipee">
-  <img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://felipeferrazdev-portifolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=qfelipee&style=for-the-badge&color=9333EA&label=Visitantes"/>
+<img src="https://komarev.com/ghpvc/?username=qfelipee&style=for-the-badge&color=2E1065&label=Visitantes"/>
 
 </div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## &nbsp;💜&nbsp; Sobre mim
 
 ```java
 public class FelipeFerraz {
 
-    private String cargo    = "Desenvolvedor Back-end na Vivo";
-    private String formacao = "Sistemas de Informação";
-    private String[] stack  = {"Java", "Spring Boot", "React", "MySQL", "AWS"};
-    private String objetivo = "Construir aplicações escaláveis, organizadas e fáceis de manter";
+    private String cargo    = "Estagiário de Desenvolvimento de Software na Vivo";
+    private String foco     = "Back-end (Java e Spring Boot)";
+    private String formacao = "Sistemas de Informação na SPTech (4º semestre)";
+    private String[] stack  = {"Java", "Spring Boot", "MySQL", "Docker", "AWS"};
 
     public static void main(String[] args) {
-        System.out.println("Sempre evoluindo tecnicamente e aprendendo algo novo 🚀");
+        System.out.println("Aprendendo na prática, um projeto de cada vez 🚀");
     }
 }
 ```
 
-Sou estudante de **Sistemas de Informação** e atuo como **Desenvolvedor Back-end na Vivo**.
-Curto transformar problemas complexos em código simples, organizado e escalável — e adoro aprender uma tecnologia nova até entender o *porquê* por trás dela, não só o *como*.
+Estagiário de Desenvolvimento de Software na **Vivo (Telefônica Brasil)**, na Coordenação de Inventário OSS, com foco em **Back-end com Java e Spring Boot**. Estudo **Sistemas de Informação na SPTech** e gosto de aprender construindo: só dou uma tecnologia por entendida quando sei explicar o *porquê* dela, não só o *como*.
 
-Recentemente desenvolvi e implantei o **Agape Financeiro**, um sistema completo de gestão financeira para igrejas (Spring Boot + React + MySQL), meu primeiro projeto full-stack de ponta a ponta.
+No trabalho, atuo em um projeto de modernização de sistema legado para **microsserviços**, com Back-end, BFF e Front-end, usando **Azure DevOps** para versionamento, PRs e pipelines de CI/CD.
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+## &nbsp;🛠️&nbsp; Projetos em destaque
 
-## &nbsp;🚀&nbsp; Tecnologias & Ferramentas
+| Projeto | O que é | Stack |
+|:---|:---|:---|
+| **[Agape Financeiro](LINK-DO-REPOSITORIO)** | Sistema de gestão financeira para igrejas. Meu primeiro projeto full stack de ponta a ponta | Spring Boot, MySQL, React |
+| **[Amor em Mechas](LINK-DO-REPOSITORIO)** | API para formulário e gestão de pacientes | Java, Spring Boot |
+
+> Estou evoluindo o Agape Financeiro com **Docker**, **pipeline de CI/CD** e **deploy na AWS**.
+
+---
+
+## &nbsp;🚀&nbsp; Tecnologias
 
 <div align="center">
 
-**Linguagens**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/>
-
-<br/><br/>
-
 **Back-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis&theme=dark"/>
+<img src="https://img.shields.io/badge/Oracle-6D28D9?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 <br/><br/>
 
-**Banco de Dados**
+**DevOps e Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-
-<br/><br/>
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark"/>
-
-<br/><br/>
-
-**DevOps & Ferramentas**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux&theme=dark"/>
 <img src="https://img.shields.io/badge/Azure%20DevOps-6D28D9?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+<br/><br/>
+
+**Front-end (apoio)**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark"/>
+
+<br/><br/>
+
+**Também já usei**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,postman&theme=dark"/>
 <img src="https://img.shields.io/badge/Swagger-9333EA?style=for-the-badge&logo=swagger&logoColor=white"/>
 
 <br/><br/>
 
-**IDEs**
+**Ferramentas**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## &nbsp;📊&nbsp; Estatísticas & Atividade
+## &nbsp;📊&nbsp; Linguagens mais usadas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qfelipee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1A&title_color=C084FC&icon_color=A855F7&text_color=E5E0F5" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qfelipee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1A&title_color=C084FC&text_color=E5E0F5" width="41%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=qfelipee&theme=tokyonight&hide_border=true&background=0D0B1A&ring=A855F7&fire=C084FC&currStreakLabel=C084FC" width="70%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qfelipee&theme=tokyo-night&hide_border=true&bg_color=0D0B1A&color=C084FC&line=A855F7&point=ffffff" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qfelipee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1A&title_color=C084FC&text_color=E5E0F5" width="55%"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## &nbsp;📚&nbsp; Atualmente estudando
+## &nbsp;📚&nbsp; Em evolução
 
 <div align="center">
 
-| ☕ Java | 🌱 Spring Boot | ☁️ AWS | 🐳 Docker |
+| 🐳 Docker | ⚙️ CI/CD | ☁️ AWS | 🏗️ Arquitetura de Software |
 |:---:|:---:|:---:|:---:|
-| 🏗️ Arquitetura de Software | 🔗 APIs REST | ⚙️ Microsserviços | 🚀 Cloud Computing |
+| 📨 Mensageria | 🔭 Observabilidade | 🌐 Sistemas Distribuídos | ☕ Spring Boot avançado |
 
 </div>
 
-<br/>
+---
 
-## &nbsp;🎯&nbsp; Objetivos
+## &nbsp;🎯&nbsp; Metas
 
-- [x] Construir aplicações escaláveis
-- [x] Entregar meu primeiro projeto full-stack completo
-- [ ] Evoluir em Cloud Computing
-- [ ] Aprofundar conhecimentos em Arquitetura de Software
-- [ ] Aprender Microsserviços
-- [ ] Contribuir para projetos de impacto
+- [x] Entregar meu primeiro projeto full stack completo
+- [ ] Dockerizar e fazer deploy do Agape Financeiro na AWS
+- [ ] Criar uma pipeline de CI/CD própria
+- [ ] Aprofundar Arquitetura de Software e Sistemas Distribuídos
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## &nbsp;📫&nbsp; Vamos nos conectar?
+## &nbsp;📫&nbsp; Vamos conversar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/felipe-ferraz-4a7a96377/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/qfelipee">
-  <img src="https://img.shields.io/badge/GitHub-qfelipee-2E1065?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://felipeferrazdev-portifolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20site-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>

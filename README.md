@@ -103,15 +103,6 @@ No trabalho, atuo em um projeto de modernização de sistema legado para **micro
 
 ---
 
-## &nbsp;🎯&nbsp; Metas
-
-- [x] Entregar meu primeiro projeto full stack completo
-- [ ] Dockerizar e fazer deploy do Agape Financeiro na AWS
-- [ ] Criar uma pipeline de CI/CD própria
-- [ ] Aprofundar Arquitetura de Software e Sistemas Distribuídos
-
----
-
 ## &nbsp;📫&nbsp; Vamos conversar?
 
 <div align="center">

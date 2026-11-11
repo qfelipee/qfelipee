@@ -42,6 +42,40 @@ No trabalho, atuo em um projeto de modernização de sistema legado para **micro
 
 ---
 
+## &nbsp;🛠️&nbsp; Projetos em destaque
+
+### 💰 Agape Financeiro
+Sistema de gestão financeira para igrejas, meu primeiro projeto full stack de ponta a ponta. Tem autenticação com **JWT**, senhas com **BCrypt**, dois perfis de acesso (**Pastor** e **Tesoureiro**) e dashboards financeiros.
+
+- **Back-end:** Java 21, Spring Boot, arquitetura em camadas (Controller → Service → Repository), MySQL
+- **Front-end:** React, Vite, Recharts
+- **Deploy:** Railway (API) e Vercel (front)
+- **Status:** em produção. Projeto interno, sem repositório público.
+
+### 🧘 App de bem-estar e saúde mental (PWA)
+Aplicativo web instalável (PWA) desenvolvido para um cliente real, com diário, checklist de hábitos e emoções e um espaço do paciente. Fui responsável pela modelagem de dados, pela arquitetura do back-end e pelo front.
+
+- **Back-end:** Spring Boot em camadas, MySQL (modelagem no MySQL Workbench)
+- **Front-end:** React, TypeScript
+- **Infra:** Docker
+- **Status:** em desenvolvimento
+
+### ❓ Quiz (Projeto Veigh)
+[ESCREVA EM UMA FRASE O QUE O QUIZ FAZ]. Projeto com back-end próprio e banco de dados, rodando em uma **máquina virtual Oracle VM**, o que me ensinou a configurar o ambiente de execução, e não só a escrever o código.
+
+- **Stack:** Node.js, JavaScript, MySQL, HTML e CSS
+- **Infra:** máquina virtual (Oracle VM)
+- **Repositório:** [veja no GitHub](LINK-DO-REPOSITORIO)
+
+### 🌐 Portfólio pessoal
+Meu site com trajetória, hard skills e projetos, feito do zero para aprender React e para apresentar o meu trabalho. Tem modo claro/escuro, animações ao rolar a página e é responsivo.
+
+- **Stack:** React (Vite), Tailwind CSS, ESLint
+- **Deploy:** Vercel
+- **Links:** [ver site](https://felipeferrazdev-portifolio.vercel.app) · [repositório](LINK-DO-REPOSITORIO)
+
+---
+
 ## &nbsp;🚀&nbsp; Tecnologias
 
 <div align="center">
